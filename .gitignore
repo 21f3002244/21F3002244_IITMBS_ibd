@@ -11,3 +11,16 @@ mlflow.db
 
 # Cloned reference repository
 iris_source/
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# MLflow local tracking
+mlruns/
+mlflow.db
+
+# Cloned reference repository
+iris_source/
